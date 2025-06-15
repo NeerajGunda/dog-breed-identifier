@@ -7,4 +7,5 @@ The model predicts the breed name and the confidence score.
 Built using TensorFlow, Keras, and Gradio.
 Hosted as a Hugging Face Space using free CPU resources.
 🚀 Demo
-👉 Click here to open the live app
+👉 [Click here to open the live demo](https://huggingface.co/spaces/NEERAJ21/dog-breed-identifier)
+
